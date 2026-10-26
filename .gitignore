@@ -1,0 +1,16 @@
+
+# Credenciales y configuraciones privadas
+.env
+.env.*
+!.env.example
+
+# Dependencias y archivos temporales
+node_modules/
+*.log
+
+# Configuracion local del editor
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
